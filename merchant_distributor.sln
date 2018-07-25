@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "merchant_distributor", "merchant_distributor\merchant_distributor.csproj", "{D186DFAF-2092-4056-81FC-1AB598AC1454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D186DFAF-2092-4056-81FC-1AB598AC1454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D186DFAF-2092-4056-81FC-1AB598AC1454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D186DFAF-2092-4056-81FC-1AB598AC1454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D186DFAF-2092-4056-81FC-1AB598AC1454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {336CCAA2-B488-4267-A81A-C6E8D71E7BE1}
+	EndGlobalSection
+EndGlobal
