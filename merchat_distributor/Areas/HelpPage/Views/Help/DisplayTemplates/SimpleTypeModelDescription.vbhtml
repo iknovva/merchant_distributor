@@ -1,0 +1,3 @@
+@Imports merchat_distributor.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
